@@ -6,7 +6,9 @@ Contact: tsog215@gmail.com
 ## Introduction: 
 
 The Matlab codes computes the ground state energy for hydrogen (H), helium (He), lithium (Li), beryllium (Be), boron (B) and carbon (C) atoms by solving the time-independent Kohn-Sham (KS) equation in the local-density-approximation (LDA) of the density-functional theory (dft) [1]. The exchange and correlation contribution (E_xc) is computed in the Vosko, Wilk, and
-Nusair (VWN) approximation.
+Nusair (VWN) approximation. 
+
+Moreover, some Matlab codes uses the exchange and correlation energy functional of the Gunnarsson-Lundqvist (GL) in the local-density and local-spin-density approximations for atoms.  
 
 ## Requirement: 
 Any version of Matlab 
